@@ -22,7 +22,7 @@ Hola. Me llamo Eugenio. Soy un chico español centrado en Java.
 </h3>
 <div align="center">
   <a href="https://discord.com/users/569964436165754924">
-    <img src="https://api.lanyard.rest/v1/users/569964436165754924" align="center" height="205">
+    <img src="https://lanyard-profile-readme.vercel.app/api/569964436165754924" align="center" height="205">
   </a>
 </div>
 
