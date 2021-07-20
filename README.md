@@ -12,6 +12,11 @@ Hola. Me llamo Eugenio. Soy un chico español centrado en Java.
   <img src="https://komarev.com/ghpvc/?username=eugeniodevv&color=brightgreen" align="center">
 </div>
 
+## Estadísticas
+![](https://hit.yhype.me/github/profile?user_id=72282285)
+![](https://githubstats.nattadeploy.my.id/api?username=eugeniodevv&show_icons=true) ![](https://githubstats.nattadeploy.my.id/api/top-langs/?username=eugeniodevv&layout=compact&langs_count=8)
+#
+
 <h3 align="center">
   Ahora mismo estoy:
 </h3>
@@ -27,5 +32,3 @@ Hola. Me llamo Eugenio. Soy un chico español centrado en Java.
 - ⚡ Dato: Desde pequeño tuve mucho interés en crear mi propio servidor de Minecraft, y no todos los plugins públicos me convencían, tanto de rendimiento, como de opciones, así que decidí aprender a programar por mí mismo, para no tener que depender en nadie.
 - 📫 Cómo contactarme: [@NotEugenio_](https://twitter.com/NotEugenio_) o /dev/null#3118.
 - 🐱 Por si no lo sabías, soy un nerd de los gatos.
-#
-![](https://hit.yhype.me/github/profile?user_id=72282285)
