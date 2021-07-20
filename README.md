@@ -8,6 +8,7 @@ Hola. Me llamo Eugenio. Soy un chico español centrado en Java.
   </a>
   <img src="https://img.shields.io/static/v1?label=Discord&message=/dev/null%233118&color=brightgreen&style=for-the-badge" align="center">
   <br>
+  <br>
   <img src="https://komarev.com/ghpvc/?username=eugeniodevv&color=brightgreen" align="center">
 </div>
 
