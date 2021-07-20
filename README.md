@@ -14,7 +14,7 @@ Hola. Me llamo Eugenio. Soy un chico español centrado en Java.
 
 ## Estadísticas
 ![](https://hit.yhype.me/github/profile?user_id=72282285)
-![](https://githubstats.nattadeploy.my.id/api?username=eugeniodevv&show_icons=true) ![](https://githubstats.nattadeploy.my.id/api/top-langs/?username=eugeniodevv&layout=compact&langs_count=8)
+![](https://githubstats.nattadeploy.my.id/api?username=eugeniodevv&show_icons=true)
 #
 
 <h3 align="center">
