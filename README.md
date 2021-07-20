@@ -16,13 +16,15 @@ Hola. Me llamo Eugenio. Soy un chico español centrado en Java.
 </h3>
 <div align="center">
   <a href="https://discord.com/users/569964436165754924">
-    <img src="https://lanyard-profile-readme.vercel.app/api/569964436165754924" align="center" height="205">
+    <img src="https://api.lanyard.rest/v1/users/569964436165754924" align="center" height="205">
   </a>
 </div>
-![](https://hit.yhype.me/github/profile?user_id=72282285)
+
 - 🔭 Estoy trabajando actualmente en [LobosarCraft](https://lobosarcraft.com).
 - 🌱 Estoy aprendiendo a como programar en Kotlin.
 - 💻 Soy administrador de sistemas en [TheBlitzBot](https://theblitzbot.com) y TerraVoid.
 - ⚡ Dato: Desde pequeño tuve mucho interés en crear mi propio servidor de Minecraft, y no todos los plugins públicos me convencían, tanto de rendimiento, como de opciones, así que decidí aprender a programar por mí mismo, para no tener que depender en nadie.
 - 📫 Cómo contactarme: [@NotEugenio_](https://twitter.com/NotEugenio_) o /dev/null#3118.
 - 🐱 Por si no lo sabías, soy un nerd de los gatos.
+#
+![](https://hit.yhype.me/github/profile?user_id=72282285)
