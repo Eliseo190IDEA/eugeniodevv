@@ -1,4 +1,3 @@
-![](https://hit.yhype.me/github/profile?user_id=72282285)
 ## ¡Hola! 👋
 
 Hola. Me llamo Eugenio. Soy un chico español centrado en Java.
@@ -20,7 +19,7 @@ Hola. Me llamo Eugenio. Soy un chico español centrado en Java.
     <img src="https://lanyard-profile-readme.vercel.app/api/569964436165754924" align="center" height="205">
   </a>
 </div>
-
+![](https://hit.yhype.me/github/profile?user_id=72282285)
 - 🔭 Estoy trabajando actualmente en [LobosarCraft](https://lobosarcraft.com).
 - 🌱 Estoy aprendiendo a como programar en Kotlin.
 - 💻 Soy administrador de sistemas en [TheBlitzBot](https://theblitzbot.com) y TerraVoid.
