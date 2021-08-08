@@ -21,6 +21,7 @@ Hola. Me llamo Eugenio. Soy un chico español centrado en Java.
 <a href="https://discord.com/users/569964436165754924">
   <img src="https://lanyard-profile-readme.vercel.app/api/569964436165754924?animated=true" align="center" height="205">
 </a>
+<br>
 
 - 🔭 Estoy trabajando actualmente en [LobosarCraft](https://lobosarcraft.com).
 - 🌱 Estoy aprendiendo a como programar en Kotlin.
