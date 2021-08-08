@@ -14,7 +14,8 @@ Hola. Me llamo Eugenio. Soy un chico español centrado en Java.
 
 ## Estadísticas
 ![](https://hit.yhype.me/github/profile?user_id=72282285)
-![](https://githubstats.nattadeploy.my.id/api?username=eugeniodevv&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=eugeniodevv&show_icons=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=eugeniodevv&langs_count=5&theme=dark)
 
 ## Ahora mismo estoy:
 <a href="https://discord.com/users/569964436165754924">
