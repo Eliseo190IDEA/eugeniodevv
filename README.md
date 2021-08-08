@@ -17,14 +17,10 @@ Hola. Me llamo Eugenio. Soy un chico español centrado en Java.
 ![](https://githubstats.nattadeploy.my.id/api?username=eugeniodevv&show_icons=true)
 #
 
-<h3 align="center">
-  Ahora mismo estoy:
-</h3>
-<div align="center">
-  <a href="https://discord.com/users/569964436165754924">
-    <img src="https://lanyard-profile-readme.vercel.app/api/569964436165754924?animated=true" align="center" height="205">
-  </a>
-</div>
+## Ahora mismo estoy:
+<a href="https://discord.com/users/569964436165754924">
+  <img src="https://lanyard-profile-readme.vercel.app/api/569964436165754924?animated=true" align="center" height="205">
+</a>
 
 - 🔭 Estoy trabajando actualmente en [LobosarCraft](https://lobosarcraft.com).
 - 🌱 Estoy aprendiendo a como programar en Kotlin.
